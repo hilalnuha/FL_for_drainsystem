@@ -1,3 +1,8 @@
+//inisialisasi objek fuzzy
+// if you find code in this page useful, please cite our paper
+// {Automatic Drain System In Seawater Aquarium With Fuzzy Logic Method, Nur Adin and  Hilal H. Nuha, Jurnal Media Informatika Budidarma, 2020}
+
+
 #include <Wire.h>
 #define CENTER 821
 #include <Fuzzy.h>
